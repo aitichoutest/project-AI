@@ -1,2 +1,2 @@
-"# Mon Projet" 
-"# project-AI" 
+# project-AI
+ Détection de Visages basée sur HOG et SVM 
